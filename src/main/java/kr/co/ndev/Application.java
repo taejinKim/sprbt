@@ -1,4 +1,5 @@
 //참조 : http://jojoldu.tistory.com/250
+// github 부분 특히 유의할것 
 package kr.co.ndev;
 
 import org.springframework.boot.SpringApplication;
